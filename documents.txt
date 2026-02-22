@@ -1,0 +1,10 @@
+Artificial Intelligence is transforming the world.
+Machine learning is a subset of AI.
+Information retrieval deals with searching data.
+Streamlit is used to build web apps.
+Cosine similarity measures similarity between vectors.
+Deep learning uses neural networks.
+Python is popular for data science.
+Embeddings convert text into vectors.
+Search engines use ranking algorithms.
+Natural language processing helps computers understand text.
